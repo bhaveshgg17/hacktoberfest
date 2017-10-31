@@ -1,3 +1,8 @@
+#### Name: Bhavesh Devjani
+ - Place: Jaipur,India
+ - Bio: Engineering Student, VIT, Velloe, India.
+ - GitHub: [bhaveshgg17](https://github.com/bhaveshgg17)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
